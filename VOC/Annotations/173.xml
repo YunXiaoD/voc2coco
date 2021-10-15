@@ -1,0 +1,50 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>HXD3C0410_02_20210622_124500_2400_0.89 - 副本.jpg</filename>
+	<path>C:\Users\ty136\Desktop\tytu\phone\HXD3C0410_02_20210622_124500_2400_0.89 - 副本.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>27</ymin>
+			<xmax>139</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>51</ymin>
+			<xmax>127</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>94</ymin>
+			<xmax>250</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
