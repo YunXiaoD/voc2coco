@@ -81,9 +81,7 @@
 ./VOC/Annotations/170.xml
 ./VOC/Annotations/171.xml
 ./VOC/Annotations/172.xml
-./VOC/Annotations/173.xml
 ./VOC/Annotations/174.xml
-./VOC/Annotations/175.xml
 ./VOC/Annotations/176.xml
 ./VOC/Annotations/177.xml
 ./VOC/Annotations/178.xml
